@@ -1,0 +1,4 @@
+kafka-python
+requests
+snowflake-connector-python
+sseclient-py
